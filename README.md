@@ -2,12 +2,12 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Updated daily](https://img.shields.io/badge/updated-daily-brightgreen)](https://github.com/thuongtin/awesome-bfcm-2026)
-[![Deals](https://img.shields.io/badge/deals-39-blue)](https://github.com/thuongtin/awesome-bfcm-2026)
+[![Deals](https://img.shields.io/badge/deals-42-blue)](https://github.com/thuongtin/awesome-bfcm-2026)
 [![License: CC0](https://img.shields.io/badge/license-CC0-lightgrey.svg)](LICENSE)
 
 > A deeply categorized, visual curated list of **Black Friday 2026** and **Cyber Monday 2026** (BFCM 2026) deals — AI & developer tools, software & SaaS, hosting & cloud, electronics, hardware, courses, games, and more.
 
-**39 deals** currently listed · Last updated: **2026-11-03** (Asia/Saigon)
+**42 deals** currently listed · Last updated: **2026-11-03** (Asia/Saigon)
 
 Community-sourced from **Reddit, GitHub, Facebook, and X** → Notion → published here as tables for fast scanning.
 
@@ -16,19 +16,19 @@ Community-sourced from **Reddit, GitHub, Facebook, and X** → Notion → publis
 | Category | Deals |
 | --- | ---: |
 | AI & Dev Tools | 12 |
-| Software & SaaS | 15 |
+| Software & SaaS | 18 |
 | Hosting & Cloud | 3 |
 | Electronics | 2 |
 | Hardware/Gadgets | 5 |
 | Courses & Learning | 2 |
 | Games | 0 |
 | Other | 0 |
-| **Total** | **39** |
+| **Total** | **42** |
 
 ## Contents
 
 - [AI & Dev Tools](#ai--dev-tools) (12)
-- [Software & SaaS](#software--saas) (15)
+- [Software & SaaS](#software--saas) (18)
 - [Hosting & Cloud](#hosting--cloud) (3)
 - [Electronics](#electronics) (2)
 - [Hardware/Gadgets](#hardware--gadgets) (5)
@@ -63,8 +63,11 @@ Community-sourced from **Reddit, GitHub, Facebook, and X** → Notion → publis
 | [AppsByMo, 50% off every paid app, Black Friday 2026](https://appsbymo.app/?ref=twf-bf) | 50% off | Every paid app | 2026-11-30 | GitHub | Code BLACKFRIDAY for direct Mac apps. |
 | [Cutfac, 40% off one-time licenses, Black Friday 2026](https://cutfac.com) | 40% off | 1/3/5 Macs: $29.40/$41.40/$59.40 | 2026-12-31 | GitHub | Code BF2026. |
 | [DockX, 25% off, Black Friday 2026](https://dockx.app/) | 25% off | App Store or direct | — | X | Code BF2026 on direct site; App Store sale also reported. |
+| [FaceScreen, 30% off, Black Friday 2026](https://facescreen.app) | 30% off | $5.99 to $4.19, one-time purchase | 2026-12-02 | GitHub | Code FACESCREEN30, direct purchase from the website only. Floating camera overlay and ring light for Mac, iPhone, and iPad. Nov 18 - Dec 2. |
 | [Folder Preview Pro, 30% off, Black Friday 2026](https://anybox.ltd/folder-preview-pro) | 30% off | — | 2026-12-03 | X | Folder Preview Pro by Anybox. Code BFF2026. Nov 27–Dec 3. |
 | [FormNX, 50% off all plans, Black Friday 2026](https://formnx.com) | 50% off | All plans | — | GitHub | Code BFCM26. |
+| [KeyScreen, 30% off, Black Friday 2026](https://keyscreen.app) | 30% off | $5.99 to $4.19, one-time purchase | 2026-12-02 | GitHub | Code KEYSCREEN30, direct purchase from the website only. Shows the keys you press on screen (Mac). Nov 18 - Dec 2. |
+| [Presentify, 30% off, Black Friday 2026](https://presentifyapp.com) | 30% off | $14 to $9.80, one-time purchase | 2026-12-02 | GitHub | Code PRESENTIFY30, direct purchase from the website only. Draw and annotate on screen, highlight cursor and clicks (Mac). Nov 18 - Dec 2. |
 | [Proton, up to 75% off VPN Plus (and suite discounts), Black Friday 2026](https://digitalescapetools.com/2026/10/proton-black-friday-2026-vpn-mail-drive-pass-unlimited.html) | Up to 75% off VPN Plus; 60% Mail/Drive/Pass; 50% Unlimited | VPN Plus from ~$2.49/mo (as reported) | — | X | Proton Black Friday 2026 privacy suite deals. |
 | [RewriteBar, 50% off, Black Friday 2026](https://rewritebar.com?ref=twf-nikhila) | 50% off | One-time licenses and subscriptions | 2026-12-03 | GitHub | Code BF2026. |
 | [RocketScribe, up to 60% off lifetime, Black Friday 2026](https://rocketscribe.ai) | Up to 60% off | Lifetime from $69 | 2026-12-06 | GitHub | No code needed. |
